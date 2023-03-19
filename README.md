@@ -38,7 +38,7 @@ OneDark-Pro-Kitty-Theme includes the following features:
 
 OneDark-Pro-Kitty-Theme is based on the [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) theme by [Binaryify](https://github.com/Binaryify/OneDark-Pro).
 
-Color test is based on the [olor-Scripts](https://github.com/stark/Color-Scripts) by [Abhishek](https://github.com/stark).
+Color test is based on the [Color-Scripts](https://github.com/stark/Color-Scripts) by [Abhishek](https://github.com/stark).
 
 
 ## License
