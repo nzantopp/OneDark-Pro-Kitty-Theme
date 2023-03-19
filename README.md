@@ -2,7 +2,9 @@
 
 OneDark-Pro-Kitty-Theme is a custom theme for the kitty terminal emulator inspired by the popular One Dark Pro theme. It provides a sleek, dark and modern appearance that makes your terminal experience enjoyable.
 
-![OneDark-Pro-Kitty-Theme Preview](https://user-images.githubusercontent.com/1234567/1234567890/odkitty.png)
+![OneDark-Pro-Kitty-Theme Preview](https://github.com/nzantopp/OneDark-Pro-Kitty-Theme/blob/main/preview/OneDark-Pro-darker.png)
+
+
 
 ## Installation
 
